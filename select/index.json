@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "LOA",
+  "base_artist": "Furui Riho",
+  "createdAt": "2026-03-31T11:48:31.474036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "\"LOA\" House",
+      "artist": "King Diamond",
+      "has_synced": true,
+      "path": "select/01_LOA__House_King_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "'LOA' House",
+      "artist": "King Diamond",
+      "has_synced": true,
+      "path": "select/02_'LOA'_House_King_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "“LOA” House",
+      "artist": "King Diamond",
+      "has_synced": true,
+      "path": "select/03_“LOA”_House_King_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ILLUSION SUR MAUNA LOA",
+      "artist": "Varnish La Piscine",
+      "has_synced": true,
+      "path": "select/04_ILLUSION_SUR_MAUNA_LOA_Varnish_La_Piscine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loa",
+      "artist": "Sunset Sons",
+      "has_synced": true,
+      "path": "select/05_Loa_Sunset_Sons.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loa Loa",
+      "artist": "La Oreja de Van Gogh",
+      "has_synced": true,
+      "path": "select/06_Loa_Loa_La_Oreja_de_Van_Gogh.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loa",
+      "artist": "Furui Riho feat. knoak",
+      "has_synced": true,
+      "path": "select/07_Loa_Furui_Riho_feat._knoak.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOA",
+      "artist": "Furui Riho",
+      "has_synced": true,
+      "path": "select/08_LOA_Furui_Riho.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loa",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/09_Loa_Furui_Riho.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOA House",
+      "artist": "King Diamond",
+      "has_synced": true,
+      "path": "select/10_LOA_House_King_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loa",
+      "artist": "Sunset Sons",
+      "has_synced": true,
+      "path": "select/11_Loa_Sunset_Sons.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOA",
+      "artist": "Furui Riho",
+      "has_synced": false,
+      "path": "select/pl_01_LOA_Furui_Riho.txt"
+    }
+  ]
+}
